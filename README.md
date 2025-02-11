@@ -35,14 +35,14 @@ This script automates the process of adding, committing, and pushing changes to 
     Open your terminal and navigate to the directory where you saved the script. Then, grant execute permissions to the script by typing:
 
     ```
-    chmod +x autogit.sh
+    chmod +x git_push.sh
     ```
 
 4.  **Run the script**:
     Execute the script with the following command:
 
     ```
-    ./autogit.sh
+    ./git_push.sh
     ```
 
     The script will first check if it's located in `/usr/local/bin`. If not, it will prompt you to move it there.
